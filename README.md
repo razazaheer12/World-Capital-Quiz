@@ -115,7 +115,6 @@ Then open:
 
 - Move DB credentials to environment variables (`.env`) for security
 - Add a `start` script in `package.json` if missing
-- Remove duplication between `index.js` and `solution.js`
 - Replace `alert()` with a styled modal for a smoother UX
 
 ---
